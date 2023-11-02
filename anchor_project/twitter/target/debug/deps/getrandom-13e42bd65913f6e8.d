@@ -1,0 +1,11 @@
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/debug/deps/getrandom-13e42bd65913f6e8.rmeta: /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs
+
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/debug/deps/getrandom-13e42bd65913f6e8.d: /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs
+
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs:
+/Users/knedlicc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs:

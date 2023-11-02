@@ -1,0 +1,11 @@
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/getrandom-20efe2cd2a9cf17e.rmeta: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/util.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/custom.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error_impls.rs
+
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/libgetrandom-20efe2cd2a9cf17e.rlib: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/util.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/custom.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error_impls.rs
+
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/getrandom-20efe2cd2a9cf17e.d: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/util.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/custom.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error_impls.rs
+
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/lib.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/util.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/custom.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.10/src/error_impls.rs:

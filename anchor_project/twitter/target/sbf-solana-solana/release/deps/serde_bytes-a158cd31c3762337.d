@@ -1,0 +1,11 @@
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/serde_bytes-a158cd31c3762337.rmeta: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/libserde_bytes-a158cd31c3762337.rlib: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/Users/knedlicc/Documents/study/sos-092023-task4-knedlicc/target/sbf-solana-solana/release/deps/serde_bytes-a158cd31c3762337.d: /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs:
+/Users/knedlicc/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs:
