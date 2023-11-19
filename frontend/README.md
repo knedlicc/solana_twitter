@@ -4,13 +4,13 @@
 The app is deployed with Vercel. Link: https://twitter-dapp-azure.vercel.app/
 
 This dApp is written with Solana dApp Scaffold template. [Original repo](https://github.com/solana-labs/dapp-scaffold#solana-dapp-scaffold-next).
-It serves basic Twitter like functionality such as creating and observing tweets, commenting, adding reactions (like, dislike).
+It serves basic Twitter-like functionality such as creating and observing tweets, commenting, adding reactions (like, dislike). To make it simplier, there is no form for tweet's or comment's content, so the app generates random string just to show dApp functionality. 
 
 The Solana dApp Scaffold repos are meant to house good starting scaffolds for ecosystem developers to get up and running quickly with a front end client UI that integrates several common features found in dApps with some basic usage examples. Wallet Integration. State management. Components examples. Notifications. Setup recommendations.
 
 Responsive                     |  Desktop
 :-------------------------:|:-------------------------:
-![](scaffold-mobile.png)  |  ![](scaffold-desktop.png)
+![](dapp-twitter/scaffold-mobile.png)  |  ![](dapp-twitter/scaffold-desktop.png)
 
 
 
